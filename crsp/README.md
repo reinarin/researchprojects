@@ -1,1 +1,3 @@
 ## [**CUNY Research Scholars Program**](https://www.cuny.edu/research/research-development-programs/student-programs/undergraduate-programs/cuny-research-scholars-program/)
+
+The CUNY Research Scholars Program (CRSP) funds year-long research experiences for associate degree students at all seven CUNY community colleges and three comprehensive schools. The goal of the program is to encourage undergraduate participation in authentic research and to increase persistence in STEM disciplines. Students receive 320 hours of mentoring from faculty members and participate in biweekly workshops, including sessions on ethical research conduct, public speaking, and poster preparation. Students receive stipends for their participation and present their work at a symposium each July.
